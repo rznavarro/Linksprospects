@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Prospectos IG",
+  "description": "Gestión simple y organizada de tus potenciales prospectos de Instagram con links a conversaciones y planes de acción.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
